@@ -1,5 +1,10 @@
-# coderefractory
+# coderefactoring
 
-- Fixed HTML
-- Fixed CSS
-- Fixed Broken Links
+Contributors:
+@jeverett93
+
+Technology Stack:
+HTML, CSS
+
+About:
+I refactored the code for this website.
